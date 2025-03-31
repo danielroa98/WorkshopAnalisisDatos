@@ -5,6 +5,10 @@ Repositorio usado para el taller de Análisis de Datos: entendiendo el mundo con
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+## Acceso al repositorio
+
+![Enlace al repositorio](./imgs/QRRepo.png)
+
 ## Pasos a seguir
 
 ### Entorno local
