@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Local files
+# Python virtual environments
+workshop-da/ 
+notebooks/spotify_charts_analysis_personal.ipynb
+.DS_Store
+data/
